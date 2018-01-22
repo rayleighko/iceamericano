@@ -28,4 +28,8 @@ Solved probelm 'A+B'
 
 ### Index  
 
+* [#1000][1000]  
+
+[1000]: https://github.com/rjs1197/iceamericano/blob/master/1000/contents.md
+
 
