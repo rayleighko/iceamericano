@@ -17,19 +17,19 @@ void main(void)
 	
 	finish = clock();
 	
-	double duration;
-	duration = (double)(finish - start)/CLOCKS_PER_SEC;
+	double timer;
+	timer = (double)(finish - start)/CLOCKS_PER_SEC;
 	
-	printf("재귀적 방법 결과 값: %e, %f 초입니다.\n", fec1(n), duration);
+	printf("재귀적 방법 결과 값: %e, %f 초입니다.\n", fec1(n), timer);
 	start = clock();
 
 	fec2(n); // 반복적 방법
 
 	finish = clock();
 
-	duration = (double)(finish - start)/CLOCKS_PER_SEC;
+	timer = (double)(finish - start)/CLOCKS_PER_SEC;
 
-	printf("반복적 방법 결과 값: %e, %f 초입니다.\n", fec2(n), duration);
+	printf("반복적 방법 결과 값: %e, %f 초입니다.\n", fec2(n), timer);
 }
 
 double fec1(int n)
