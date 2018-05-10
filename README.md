@@ -26,54 +26,41 @@ Solved problem 'A+B'
 
 ```
 
-### Index  
+### Solved problem - index  
 
-* [#1000][1000]  
-* [#1001][1001]
-* [#1008][1008]
-* [#10172][10172]
-* [#10430][10430]
-* [#10718][10718]
-* [#10998][10998]
-* [#11719][11719]
-* [#2557][2557]
-* [#2558][2558]
-* [#2741][2741]
-* [#2742][2742]
-* [#2839][2839]
-* [][]
-* [][]
-* [][]
-* [][]
-* [][]
-* [][]
-* [][]
-* [][]
-* [][]
-* [][]
-* [][]
-* [][]
-* [][]
-* [][]
-* [][]
-* [][]
-* [][]
-* [][]
-* [][]
-* [][]
-* [][]
+* [#1000 - A + B](/1000/contents.md)  
+* [#1001 - A - B](/1001/contents.md)  
+* [#1008 - A / B](/1008/contents.md)  
+* [#1924 - 2007년](/1924/contents.md)  
+* [#2557 - Hello World](/2557/contents.md)  
+* [#2558 - A + B -2](/2558/contents.md)  
+* [#2577 - 숫자의 개수](/2577/contents.md)  
+* [#2741 - N 찍기](/2741/contents.md)  
+* [#2742 - 기찍 N](/2742/contents.md)  
+* [#9498 - 시험 성적](/9498/contents.md)  
+* [#10172 - 개](/10172/contents.md)  
+* [#10430 - 나머지](/10430/contents.md)  
+* [#10718 - We love kriii](/10718/contents.md)  
+* [#10817 - 세 수](/10817/contents.md)  
+* [#10869 - 사칙연산](/10869/contents.md)  
+* [#10998 - A * B](/10998/contents.md)  
+* [#11719 - 그대로 출력하기2](/11719/contents.md)  
+* [#univ - Binary Search](/univ/binsearch.cpp)  
+* [#univ - Fectorial](/univ/fectorial.cpp)  
+* [#univ - Fibonacci](/univ/fibonacci.cpp)  
+* [#univ - Mergesort](/univ/mergesort.cpp)  
+* [#univ - N-Queens](/univ/n-queens.cpp)  
+* [#univ - Quicksort](/univ/quicksort.cpp)  
+* [#univ - Sequentialsearch](/univ/seqsearch.cpp)  
 
-[1000]: https://github.com/rjs1197/iceamericano/blob/master/1000/contents.md
-[1001]: https://github.com/rjs1197/iceamericano/blob/master/1001/contents.md
-[1008]: https://github.com/rjs1197/iceamericano/blob/master/1008/contents.md
-[10172]: https://github.com/rjs1197/iceamericano/blob/master/10172/contents.md
-[10430]: https://github.com/rjs1197/iceamericano/blob/master/10430/contents.md
-[10718]: https://github.com/rjs1197/iceamericano/blob/master/10718/contents.md
-[10869]: https://github.com/rjs1197/iceamericano/blob/master/10869/contents.md
-[10998]: https://github.com/rjs1197/iceamericano/blob/master/10998/contents.md
-[11719]: https://github.com/rjs1197/iceamericano/blob/master/11719/contents.md
-[2557]: https://github.com/rjs1197/iceamericano/blob/master/2557/contents.md
-[2558]: https://github.com/rjs1197/iceamericano/blob/master/2558/contents.md
-[2741]: https://github.com/rjs1197/iceamericano/blob/master/2741/contents.md
-[2742]: https://github.com/rjs1197/iceamericano/blob/master/2742/contents.md
-[2839]: https://github.com/rjs1197/iceamericano/blob/master/2839/contents.md
+### Unsolved problem - index  
+
+* [#1152 - 단어의 개수](/1152/contents.md)  
+* [#1546 - 평균](/1546/contents.md)  
+* [#2750 - 수 정렬하기](/2750/contents.md)  
+* [#2839 - 설탕배달](/2839/contents.md)  
+* [#4344 - 평균은 넘겠지](/4344/contents.md)  
+* [#4673 - 셀프 넘버](/4673/contents.md)  
+* [#10039 - 평균 점수](/10039/contents.md)  
+* [#10871 - X보다 작은 수](/10871/contents.md)  
+	
