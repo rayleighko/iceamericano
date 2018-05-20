@@ -102,3 +102,7 @@ ENV/
 
 #pycharm
 .idea/
+
+# g++
+gmon.out
+a.out
