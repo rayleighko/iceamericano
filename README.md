@@ -67,6 +67,8 @@ Solve problem A+B
 ### Programmers(https://programmers.co.kr/)  
 
 * [#programmers - 2016](/programmers/2016.cpp)  
+* [#programmers - 가운데 글자 가져오기](/programmers/middlechar.cpp)  
+* [#programmers - 가장 긴 팰린드롬](/programmers/longestpalindrome.cpp)  
 
 ## Unsolved problem  
   
