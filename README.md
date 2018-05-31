@@ -69,6 +69,11 @@ Solve problem A+B
 * [#programmers - 2016](/programmers/2016.cpp)  
 * [#programmers - 가운데 글자 가져오기](/programmers/middlechar.cpp)  
 * [#programmers - 가장 긴 팰린드롬](/programmers/longestpalindrome.cpp)  
+* [#programmers - 올바른 괄호](/programmers/collectnum.cpp)  
+* [#programmers - 같은 숫자는 싫어](/programmers/hatesamenum.cpp)  
+* [#programmers - 정수 A부터 B까지의 합](/programmers/sumatob.cpp)  
+* [#programmers - 문자열 내 p와 y의 개수](/programmers/pnynum.cpp)  
+* [#programmers - 나누어 떨어지는 숫자 배열](/programmers/divnumarr.cpp)  
 
 ## Unsolved problem  
   
