@@ -80,6 +80,7 @@ Solve problem A+B
 * [#programmers - 약수의 합](/programmers/sumofdivisors.cpp)  
 * [#programmers - 문자열을 정수로 바꾸기](/programmers/stringtoint.cpp)  
 * [#programmers - 수박수박수박수박수박수?](/programmers/melon.cpp)  
+* [#programmers - 소수 찾기](/programmers/finddecimal.cpp)  
 
 ## Unsolved problem  
   
