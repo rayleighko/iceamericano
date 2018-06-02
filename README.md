@@ -76,6 +76,7 @@ Solve problem A+B
 * [#programmers - 나누어 떨어지는 숫자 배열](/programmers/divnumarr.cpp)  
 * [#programmers - 자릿수 더하기](/programmers/adddigit.cpp)  
 * [#programmers - 자연수 뒤집어 배열로 만들기](/programmers/reverselong.cpp)  
+* [#programmers - 정수 내림차순으로 배치하기](/programmers/sortlongdesc.cpp)  
 
 ## Unsolved problem  
   
