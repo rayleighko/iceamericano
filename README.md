@@ -74,6 +74,7 @@ Solve problem A+B
 * [#programmers - 정수 A부터 B까지의 합](/programmers/sumatob.cpp)  
 * [#programmers - 문자열 내 p와 y의 개수](/programmers/pnynum.cpp)  
 * [#programmers - 나누어 떨어지는 숫자 배열](/programmers/divnumarr.cpp)  
+* [#programmers - 자릿수 더하기](/programmers/adddigit.cpp)  
 
 ## Unsolved problem  
   
