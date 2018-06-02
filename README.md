@@ -78,6 +78,8 @@ Solve problem A+B
 * [#programmers - 자연수 뒤집어 배열로 만들기](/programmers/reverselong.cpp)  
 * [#programmers - 정수 내림차순으로 배치하기](/programmers/sortlongdesc.cpp)  
 * [#programmers - 약수의 합](/programmers/sumofdivisors.cpp)  
+* [#programmers - 문자열을 정수로 바꾸기](/programmers/stringtoint.cpp)  
+* [#programmers - 수박수박수박수박수박수?](/programmers/melon.cpp)  
 
 ## Unsolved problem  
   
