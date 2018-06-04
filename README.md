@@ -1,8 +1,10 @@
 # iceamericano  
 
-Algorithm Archive to keep your head cool. short name is AA(Ice Americano).
+Algorithm Solving is cool your head.  therefore i naming to short name is    AA(Ice Americano).
 
 알고리즘 아카이브의 줄임말 아아를 모티브로 만든 알고리즘 저장소.
+
+"알고리즘 학습의 끝은 존재하지 않지만, 이 저장소의 마지막은 실상의 문제에 대해 자연스럽게 어떤 알고리즘이 최적한지를 명확하게 판단하는 그 순간이다."
 
 ### Writing rule  
 
